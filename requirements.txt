@@ -1,0 +1,33 @@
+# Core ML
+torch>=2.0
+transformers>=4.40
+datasets
+accelerate
+sentencepiece
+protobuf
+
+# Training utilities
+evaluate
+scikit-learn
+scipy
+
+# Metrics
+sacrebleu
+rouge-score
+bert-score
+
+# API clients
+aiohttp
+groq
+google-genai
+
+# Utilities
+python-dotenv
+pyyaml
+numpy
+tqdm
+pandas
+
+# Visualization / reporting
+matplotlib
+tabulate

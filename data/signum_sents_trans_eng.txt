@@ -1,0 +1,780 @@
+0001	When does the film start?
+0002	When does the film start on Saturday night?
+0003	The Christmas market will start on Monday night.
+0004	What time will church start on Wednesday?
+0005	When will the teacher start to learn sign language?
+0006	How is butter produced?
+0007	My husband works a lot.
+0008	Over Christmas we do not work in the institute.
+0009	My husband works in a restaurant.
+0010	The waiter has to work in the restaurant.
+0011	The man is ordering a warm pizza.
+0012	I would like to order the interesting car.
+0013	The brother is ordering warm tea with milk.
+0014	The child would like to order new toys.
+0015	The child will order toys on Friday.
+0016	I need new shoes.
+0017	I need a new bicycle.
+0018	I need a new computer.
+0019	I need the bicycle.
+0020	The flowers need rain.
+0021	I needed washing powder yesterday.
+0022	Do you have sausages?
+0023	Do you have butter?
+0024	Are you hungry?
+0025	Do you have fresh lettuce?
+0026	Do you have fresh apples?
+0027	Do you have many glasses?
+0028	Do you have fresh cream?
+0029	Your brother is hungry.
+0030	Your mother is hungry.
+0031	The institute has got a new telephone.
+0032	Today they have got apples and bananas in the supermarket.
+0033	On Friday there will be a Christmas market in the city centre.
+0034	Can you help me?
+0035	Could you help me?
+0036	Who could help me?
+0037	Excuse me, could you help me?
+0038	Excuse me, could you help me?
+0039	The boy is answering me.
+0040	The girl is answering me.
+0041	The salesman is answering me.
+0042	Your friend has to answer me.
+0043	The man is asking me.
+0044	The girl is asking me.
+0045	The child is asking me for the way to the cinema.
+0046	The teacher is asking me for the way to the church.
+0047	The man is asking me for the way to the institute.
+0048	The policeman is asking me where my mother is. 
+0049	The man can help me.
+0050	The woman can help me.
+0051	The boy can help me.
+0052	The girl can help me.
+0053	My friend can help me. 
+0054	The policeman can help me.
+0055	The salesman can help me.
+0056	When will your husband come to the cinema?
+0057	The teacher will come to church on Saturday.
+0058	The waiter will come to the restaurant on Wednesday.
+0059	The hearing student will come to the institute on Friday.
+0060	The teacher will come to the Centre for the Deaf on Wednesday.
+0061	The deaf student will come to the centre on Friday.
+0062	When does your friend come to the guided tour on Tuesday?
+0063	I do not eat old cheese.
+0064	I do not eat old sausages.
+0065	The waiter is eating pizza.
+0066	We like to eat meat salad.
+0067	I am eating pizza in the restaurant.
+0068	You like to eat biscuits and chocolate.
+0069	My child is eating a pizza in town.
+0070	The till girl is eating biscuits.
+0071	The waiter takes the bus.
+0072	I am driving to the supermarket.
+0073	How will you drive into town today?
+0074	Cycling a lot is healthy.
+0075	The girl is riding her bicycle.
+0076	Yesterday my friend rode his bicycle.
+0077	The man does a lot of motorcycling.
+0078	The student is learning to ride a motorcycle.
+0079	The policeman is riding his motorcycle.
+0080	Your brother does a lot of motorcycling.
+0081	The deaf man is driving the car.
+0082	The student is going by car on Friday.
+0083	The student goes to the institute by car.
+0084	Who found the shoes?
+0085	Did you find the glasses?
+0086	Where do I find the shoes?
+0087	Did you find the computer?
+0088	Did you find the washing powder?
+0089	The hearing mother is guiding a tour.
+0090	The guided tour through the city centre is interesting.
+0091	On Tuesdays the guided tour is expensive.
+0092	The guided tour through the Centre for the Deaf is interesting.
+0093	The teacher will guide a tour through the church on Wednesday.
+0094	Tonight I will come to the cinema.
+0095	I am coming to the cheese counter.
+0096	My brother is coming to the restaurant.
+0097	I am coming to the cinema with flowers.
+0098	I am coming to the restaurant with a present.
+0099	I am going to the supermarket. 
+0100	The husband is going to the supermarket.
+0101	My boss will go to the institute on Monday.
+0102	The policeman will go to the Christmas market on Monday.
+0103	I am answering you.
+0104	I have to answer you.
+0105	We have to answer you.
+0106	I have to answer the boss.
+0107	I am asking you.
+0108	We are asking you.
+0109	I am asking the waiter.
+0110	I am asking the student for the way to the city centre.
+0111	It is cold tonight.
+0112	Today I am cold in the church.
+0113	Yesterday I was cold in the institute.
+0114	Tonight I am cold in the bus.
+0115	You are buying tea.
+0116	I am buying chocolate.
+0117	You are buying fresh lettuce.
+0118	I will buy flowers today.
+0119	I am buying washing powder.
+0120	Did you buy any cake yesterday?
+0121	The boy is buying a coke.
+0122	The boy is buying some water.
+0123	I will buy a computer tomorrow.
+0124	Tomorrow you will buy beautiful flowers.
+0125	Today we will buy an expensive computer.
+0126	The man will buy a present on Friday.
+0127	Today we will buy lettuce in the supermarket.
+0128	We will buy a present in town on Tuesday.
+0129	Today you will buy fresh meat and bananas.
+0130	The teacher will buy a book on sign language on Tuesday.
+0131	The hearing boss will buy toys on Wednesday.
+0132	I am cooking today.
+0133	You are not cooking today.
+0134	You are cooking fresh meat.
+0135	I am cooking meat and sausages.
+0136	The till girl is cooking today.
+0137	What time does the bus arrive?
+0138	When will it start snowing?
+0139	The teacher is seeing the bus arriving.
+0140	What time does the boss arrive?
+0141	The waiter will come here by car.
+0142	The policeman will come here by motorcycle.
+0143	The deaf child will come here by bus on Monday.
+0144	How much is the beer?
+0145	How much is the old butter?
+0146	How much are the apples and the chocolate?
+0147	Excuse me, how much is the coke?
+0148	Excuse me, how much are the glasses?
+0149	Your husband is learning sign language.
+0150	Your friend is learning sign language.
+0151	The hearing waiter is learning sign language.
+0152	My hearing brother is learning sign language.
+0153	The woman is reading.
+0154	The boy is reading.
+0155	My friend is reading a book.
+0156	The boss is reading an interesting book.
+0157	The mother will read a book on Saturday.
+0158	Your brother likes reading a new book.
+0159	We like tea.
+0160	We like beer.
+0161	I like fresh milk.
+0162	The child likes the snow.
+0163	We do not like bad salad.
+0164	I like sausages, cheese, and beer.
+0165	I like neither wine nor beer.
+0166	We like biscuits and milk.
+0167	Who likes coke and chocolate?
+0168	I would like coffee with cream.
+0169	The child likes it when it is showing.
+0170	I do not like bad bananas.
+0171	Would you like some milk or tea?
+0172	Would you like some cake with cream?
+0173	You like either chocolate or biscuits.
+0174	You like fresh milk and chocolate.
+0175	The till girl like biscuits and chocolate.
+0176	Would you like to try?
+0177	Who would like to try?
+0178	The boy has to try.
+0179	My friend has to try.
+0180	The student has to taste the beer.
+0181	Too much coffee is not healthy but bad.
+0182	Does the woman sign well or badly?
+0183	The old cake does not taste nice.
+0184	Bad meat does not taste nice.
+0185	The red wine is tasty.
+0186	The fresh salad is tasty.
+0187	Fresh bananas and apples are tasty.
+0188	The cake tastes good. How did you make it?
+0189	My friend is writing a book.
+0190	The woman can write.
+0191	My sister wrote yesterday.
+0192	The salesman is writing.
+0193	My friend can write.
+0194	We are seeing red apples.
+0195	I am seeing a nice clock on the Christmas market. 
+0196	The till girl is seeing bad apples.
+0197	We saw beautiful flowers on the way to the cinema.
+0198	The toys are nice.
+0199	The new toys are interesting.
+0200	I am looking for red apples.
+0201	We are looking for the cheese counter.
+0202	You are looking for coffee or tea.
+0203	You are looking for tea or coffee.
+0204	We are looking for butter and coffee.
+0205	I am looking for red apples and chocolate.
+0206	The boss is on the telephone.
+0207	The man phones a lot.
+0208	My brother likes to phone.
+0209	On Monday the mother will phone.
+0210	On Saturday the brother will phone.
+0211	The man has to phone on Tuesday.
+0212	I will meet the girl.
+0213	Tomorrow I will meet the woman.
+0214	Will you be meeting a friend tomorrow?
+0215	Tomorrow I will be meeting my boyfriend.
+0216	I will be meeting the boss on the Christmas market.
+0217	You are drinking water.
+0218	Today I will drink sparkling wine.
+0219	Yesterday I drank sparkling wine.
+0220	We are drinking red wine.
+0221	Yesterday I drank water.
+0222	We are drinking cold sparkling wine.
+0223	The boy is drinking water.
+0224	The girl is drinking sparkling wine.
+0225	You are not drinking old milk.
+0226	Today I would like to drink red wine and beer.
+0227	We like to drink wine and to eat biscuits. 
+0228	I forgot the coke.
+0229	I forgot the cream.
+0230	I forgot the glasses.
+0231	I forgot the bicycle.
+0232	I forgot the washing powder.
+0233	Where is the salesman?
+0234	The husband is selling the present.
+0235	The waiter is selling cold tea.
+0236	The mother is selling warm milk.
+0237	We are waiting for the meat to arrive.
+0238	You are waiting for the bananas to arrive.
+0239	I am waiting for the milk to arrive.
+0240	We are waiting for the fresh apples to arrive.
+0241	We are waiting at the sausage counter.
+0242	The till girl is waiting at the cheese counter.
+0243	The till girl is waiting for the sausages to arrive.
+0244	We are hungry.
+0245	The bus is new.
+0246	Where is the pizza?
+0247	The shoes are good.
+0248	The cake is warm.
+0249	The cream is cheap.
+0250	The glasses are expensive.
+0251	Water is healthy.
+0252	The shoes are cheap.
+0253	The computer is expensive.
+0254	Excuse me, where do I find the coke?
+0255	Excuse me, where do I find the butter?
+0256	Chocolate is healthy.
+0257	The washing powder is cheap.
+0258	The new car is interesting.
+0259	The present is not cheap.
+0260	It will be snowing a lot on Monday.
+0261	The farmer has to look after all the animals.
+0262	This Thursday grandpa will look after my children.
+0263	Today my younger sister will look after the baby.
+0264	It is parents' evening tonight, please look after the baby.
+0265	Would you like to look after a young little kitten?
+0266	I am not keen on looking after your little son.
+0267	Please tidy up your dirty room.
+0268	Please tidy up the window sill.
+0269	You have to tidy up the nursery now!
+0270	Every three years I tidy up the wardrobe. 
+0271	When I tidied up the living room, I found three spiders.
+0272	I am tidying up the flat myself because the cleaning lady is sick.
+0273	In summer people take lots of vegetables.
+0274	Which dress are you going to choose?
+0275	Today you may choose the jam.
+0276	Do you choose jam or honey?
+0277	Would you like to choose a young little puppy?
+0278	I am bored, I would like to go to the shop and choose some new glasses.
+0279	Would you like to bake some bread rolls?
+0280	My mother is baking a delicious cake.
+0281	Grandma is baking nine delicious bread rolls today.
+0282	I am baking nine bread rolls without eggs.
+0283	I am baking a cake with delicious jam.
+0284	I have baked bread rolls, now I am eating them with delicious jam.
+0285	My parents are paying for my new glasses.
+0286	My father is paying for the accident insurance.
+0287	Please pay for the wardrobe for me!
+0288	I forgot my money, please pay for the bread rolls!
+0289	My father went to the shop to pay for a jacket. 
+0290	The boss is paying me compensation because I had an accident at work.
+0291	The cat is comfortably staying in the basket.
+0292	The plate with hot vegetable soup is staying there.
+0293	My father is staying in hospital because he had an accident.
+0294	My wife is staying there because the little daughter is afraid.
+0295	My daughter is staying in hospital because she is taking a therapy. 
+0296	My little sister is visiting grandma and is staying there until Easter.
+0297	My daughter does not like ironing.
+0298	Please iron my blouse!
+0299	Please iron my clean shirt!
+0300	I wash the laundry and you iron it.
+0301	Every Sunday my grandma irons the shirt for me.
+0302	I have got a new ironing board.
+0303	I have got a nice wardrobe.
+0304	I have got a comfortable house with a garden.
+0305	This morning I had a strong stomachache.
+0306	I have got a three-room flat in Aachen.
+0307	I am afraid of the many spiders that you have got on your balcony.
+0308	My family doctor recommends these pills to me.
+0309	I recommend you these pills for your cold.
+0310	I recommend you to drink hot tea with honey for your cold.
+0311	I recommend you to read the newspaper, if you are bored.
+0312	The doctor recommends to take the therapy every five years.
+0313	My father recommends the house with the nice balcony to me.
+0314	My mother is visiting me because I have got a cold.
+0315	My family visits me every Easter. 
+0316	The day before yesterday the farmer payed me a visit and brought some vegetables. 
+0317	I have to buy some ice cream because my son is coming for a visit.
+0318	The day before yesterday my family doctor payed me a visit in order to prescribe me some pills.
+0319	My friend is visiting me because I have got a strong stomachache.
+0320	The farmer is explaining to me how apple juice is produced. 
+0321	The doctor is explaining to me why I have got a headache.
+0322	The man is explaining to me why I have got a stomachache.
+0323	In hospital the doctor is explaining to me why I am sick.
+0324	The farmer is explaining to me why the young little animals have died.
+0325	Please pass me the apple juice!
+0326	Please pass me the fish food!
+0327	This Thursday I will get a wardrobe.
+0328	At Easter I am very happy because I get a lot of eggs.
+0329	I am working a lot, but I only earn little money.
+0330	My mother is passing me a plate of soup.
+0331	Grandpa is picking up the pills from the chemist`s.
+0332	My parents are picking up the children from school.
+0333	Please pick up my little daughter for me!
+0334	My father is getting seven bread rolls from the bakery for me. 
+0335	Please get me a plate, a spoon, and the pepper!
+0336	Could you get my shirt from the dry-cleaner´s for me?
+0337	It is boring in hospital because I am not allowed to read.
+0338	Dogs are not allowed in the doctor's surgery .
+0339	My father allows us to barbecue comfortably on the balcony.
+0340	I allow your son to take a speech therapy.
+0341	I have got a cold but my parents allow me to barbecue anyway.
+0342	My doctor allows me to take a therapy in hospital.
+0343	My friend is giving me sun glasses as a present.
+0344	My brother is giving me a wardrobe as a present.
+0345	My parents are giving me a little kitten as a present.
+0346	The farmer is giving me a basket with eggs as a present.
+0347	My father is giving me a table and a wardrobe as a present. 
+0348	For Easter my husband will give me a bowl as a present.
+0349	The farmer is showing me a dog basket.
+0350	My son is showing me an umbrella.
+0351	The waiter is showing me the way to the toilet. 
+0352	My friend is showing me the form.
+0353	My friend is showing me the new glasses.
+0354	My teacher has been to Hamburg and is now showing me a picture.
+0355	They sell bird food in this shop.
+0356	There are many small animals in the garden.
+0357	They sell jam, honey, and ice cream in this shop.
+0358	We will get a delicious vegetable soup at grandma's house today. 
+0359	Breakfast is delicious, there are bread rolls with jam and honey.
+0360	There are flowers missing on the window sill.
+0361	I am sad because I am missing my family.
+0362	There are toilets missing in the Cologne Bank.
+0363	My son is absent from school today because he has got a cold.
+0364	There are five plates and spoons missing on the kitchen table.
+0365	Salt and pepper are missing on the dining room table.
+0366	The day before yesterday I went to Aachen to take some pictures of the clouds.
+0367	This morning I took a picture of a spider on the balcony.
+0368	My son would like to take a picture of the little kitten.
+0369	On Thursday I took a picture of the bird in the garden.
+0370	On Thursday I will go to Cologne to take some pictures of people. 
+0371	I am not very happy about the bad weather as it is very foggy.
+0372	I am glad because I can get pills at the chemist's.
+0373	I am very happy about the nice weather as it is sunny and cloudless.
+0374	All people are happy about the nice weather as it is almost cloudless.
+0375	My grandpa is very happy because the newspaper is not boring today.
+0376	My daughter was in very bad pain when she gave birth to her baby.
+0377	My grandpa was born in the capital.
+0378	My grandma was born in Aachen and died in Cologne.
+0379	I am afraid of giving birth prematurely.
+0380	The butcher was born in Hamburg and is now living in Aachen.
+0381	I went to the capital to take a therapy.
+0382	Was the weather nice or was it cloudy when you stayed in Hamburg?
+0383	My family was in the capital on New Year's Day.
+0384	I took the baby to the doctor because it had a stomachache.
+0385	We feel like comfortably barbecuing meat.
+0386	My father would like to barbecue seven fish.
+0387	My family is barbecuing comfortably in the garden.
+0388	In summer everybody barbecues comfortably.
+0389	Please buy some sausages at the butcher's because we will barbecue today.
+0390	The young children only have little homework today.
+0391	The hospital is offering you to take a speech therapy.
+0392	It is your job to pay for the car insurance now.
+0393	The pet shop is offering you fish and spiders.
+0394	The bakery is offering you breakfast and juice.
+0395	Today I got the offer to work for a bank in Hamburg.
+0396	I will bring him nine glasses of juice.
+0397	Today I will take the children to school myself.
+0398	My mother was taken to hospital because she is sick.
+0399	My father has got a cold, I will bring him some tea with honey.
+0400	Please take grandpa to the bank so he can get the nine forms.
+0401	I will tell you now why I have been in hospital.
+0402	I will tell you now how much juice you should buy.
+0403	I will tell you today when the car accident happened back then.
+0404	I am telling you now that I have been to the Centre for the Deaf yesterday.
+0405	I will tell you today why I am afraid of spiders.
+0406	I will tell you today why my chemist has died.
+0407	It is typical of me to lend you some money.
+0408	It is typical of me to lend you the newspaper.
+0409	The day before yesterday I lent you my jacket.
+0410	It is typical of me to lend you an umbrella.
+0411	The weather is terrible! I will lend you my umbrella.
+0412	I lent you my car the day before yesterday. Why is it dirty now?
+0413	My friend does not have bird food.
+0414	The baker does not have children.
+0415	There is no bird house in my garden.
+0416	There is no umbrella on my balcony.
+0417	They did not have headache tablets at the chemist's yesterday.
+0418	We need some fresh air now.
+0419	I worked a lot yesterday, today I am relaxing.
+0420	My grandma takes a cure every year.
+0421	Every three years I take a cure in Aachen.
+0422	My grandpa is taking a cure in Aachen until New Year's Day.
+0423	My car will be insured until autumn.
+0424	How much rent does your mother pay?
+0425	My parents rent a shop with a toilet in Cologne.
+0426	Does your father want to buy or to rent the butcher's shop?
+0427	When will you mend my shirt?
+0428	I learned how to sew clothing back then.
+0429	My sister would like to sew a blouse.
+0430	I will learn how to sew jackets this autumn.
+0431	Will you have time to mend my jacket on Thursday?
+0432	My grandma is explaining to me how to sew a rain coat.
+0433	What is your wife's maiden name?
+0434	What is the baker called?
+0435	What is the chemist called?
+0436	What is the butcher called?
+0437	What is your little puppy called?
+0438	It is typical of you to forget the name of the vet.
+0439	I am not allowed to make ice cream myself.
+0440	I am not allowed to barbecue on the balcony myself.
+0441	You should not lose the umbrella!
+0442	You are not allowed to photograph the picture!
+0443	I am not allowed to eat meat with pepper.
+0444	Butchers are not allowed to work when they are dirty.
+0445	Yesterday I did not have stomachache.
+0446	They do not sell honey-flavoured ice cream in the shop.
+0447	I need to go to the bank because I have no more money.
+0448	I am happy because I do not have a headache today.
+0449	It is raining and that is a problem as I do not have an umbrella.
+0450	I do not want to buy the wardrobe.
+0451	All children disklike going to school.
+0452	We do not want any eggs without pepper.
+0453	The newspaper is boring that is why I do not want to read it.
+0454	My little son did not want to sleep back then.
+0455	Please clean the dirty toilet!
+0456	You have to clean your dirty flat.
+0457	My daughter cleaned the toilet, now it is clean.
+0458	My grandma cleaned the living room, now it is clean.
+0459	Every Thursday my daughter cleans the butcher's shop.
+0460	I have got sleeping problems.
+0461	You have to sleep now.
+0462	When it is hot in summer I feel like sleeping outside in the garden.
+0463	I am sleeping little myself because my baby is sick.
+0464	My little son is afraid of sleeping in the dark.
+0465	Will it be sunny or foggy tomorrow?
+0466	All summers are hot because the sun is shining long.
+0467	It was hot at Easter because the sun was shining long.
+0468	We are going to the chemist's to buy some suncream.
+0469	Today everybody has to save money.
+0470	My friend collects old dolls.
+0471	My sister collects old bowls.
+0472	Why does your grandpa collect old news papers?
+0473	Your teacher collects old soup plates.
+0474	My son is sad because the dog has died.
+0475	My grandpa is sad because the bird has died.
+0476	I am sad because my cat has died this morning.
+0477	I am sad because my parents have died in a car accident.
+0478	I read in the news paper that your friend has died in a motorcycle accident.
+0479	The day before yesterday I lost my glasses.
+0480	I am sad because I lost my umbrella.
+0481	It is typical of my son to lose his glasses.
+0482	It is typical of my daughter to lose her jacket.
+0483	It is typical of my child to lose the form.
+0484	What does your blouse look like?
+0485	What does your new jacket look like?
+0486	What did the bakery look like back then?
+0487	What did the bank look like back then?
+0488	What does the spider look like that you found in the garden?
+0489	What does your rented flat look like?
+0490	We will be living in Hamburg until summer.
+0491	Do your parents live in Cologne or Hamburg now?
+0492	I will buy a flat in Hamburg myself now.
+0493	I used to live in a five-family dwelling in Cologne back then.
+0494	Where does your grandpa live in the city centre?
+0495	I want all windows to be clean.
+0496	Would you like some eggs with salt and pepper?
+0497	My father would like eggs without pepper.
+0498	My boss wants clean toilets.
+0499	When the summer is hot all children want to buy ice cream.
+0500	In autumn I would like to buy a one-family dwelling.
+0501	In autumn my family wants to take a cure.
+0502	I wish for a little house with a balcony.
+0503	My grandma wishes for seven new plates.
+0504	I wish for nice weather without clouds and fog.
+0505	My three birds want food because they are hungry.
+0506	My daughter wishes for five young little birds.
+0507	This year my children would like a little kitten for Easter.
+0508	How much does the basket with the vegetables weigh in kilogramme?
+0509	All people dislike clouds and fog.
+0510	Every autumn there is thick fog. 
+0511	My family needs seven kilogrammes of fish.
+0512	How many kilogrammes of fish shall I buy?
+0513	I am bored today. I would like to go to Cologne.
+0514	Which bank shall I go to in Aachen?
+0515	My dog needs seven kilogrammes of pet food.
+0516	Please buy the fish food in the shop!
+0517	I have to buy five kilogrammes of fish in the shop.
+0518	The day before yesterday my husband bought nine kilogrammes of vegetables.
+0519	We go to the farm in order to buy vegetables and eggs.
+0520	In autumn the farmer goes to Hamburg in order to buy animals.
+0521	My son will soon complete his vocational training.
+0522	When will your nephew finally complete vocational school?
+0523	When will your apprentice complete his vocational training?
+0524	The final ceremony with the big choir was nice today.
+0525	I completed my vocational training already last month.
+0526	In the morning I often do not feel like getting up early.
+0527	I have to get up exactly at  6am every day.
+0528	The baker has to get up at 4am every day.
+0529	At weekends my grandchildren get up at 10am.
+0530	Yesterday I got up early because I had an important hearing.
+0531	How long does it take you to take a bath in the morning?
+0532	First I will take a comfortable bath and afterwards I will use some perfume.
+0533	How long has your sister been staying in the bathroom now?
+0534	My grandparents get a monthly pension.
+0535	During the vocational training you will earn little money.
+0536	My subtenant will get a monthly pension soon.
+0537	My father gets a monthly pension because he had an accident at work.
+0538	I rarely use perfume in the morning.
+0539	You can use my videophone.
+0540	The secretary uses the laptop regularly.
+0541	My hairdresser rarely uses perfume. 
+0542	My deaf colleagues in the office often use the videophone.
+0543	My wife always uses perfume when she goes to the theatre.
+0544	Your application for the project is important.
+0545	My brother-in-law wrote eight job applications last month.
+0546	My colleagues have already booked a big summer residence together.
+0547	Today I will go to the travel agency in order to book two hotel rooms.
+0548	I would like to book two tickets for the famous choir. 
+0549	The manager will be going on a journey soon, I have to book a hotel for him.
+0550	I am going to book eight tables at the restaurant for your birthday party.
+0551	The deaf secretary has got an alarm clock with flashlight.
+0552	The hotel has got excellent leisure time facilities. 
+0553	The judge has got a big motorboat.
+0554	The school has got a big sports hall.
+0555	My neighbour has a good pension insurance.
+0556	Do you know when the rush-hour traffic starts?
+0557	Do you know the name of the famous choir?
+0558	Do you know the address of the schoolmate?
+0559	Excuse me, do you know the person who has stolen my laptop?
+0560	Do you know the address of the campsite in Holland?
+0561	Do you know the address of the managing director?
+0562	The conference members are discussing Europe today.
+0563	I like to discuss politics with my hairdresser.
+0564	I discuss politics with my colleagues during lunch break.
+0565	The apprentice is discussing the salary with his boss.
+0566	My hairdresser often discusses politics.
+0567	I am discussing with the manager about the amount of my salary.
+0568	I have already ordered four interpreters for the conference.
+0569	My friend is deaf but I can interpret for him.
+0570	Please pass me the alarm clock with flashlight!
+0571	Please pass me the ticket!
+0572	Please pass me the remote control for the television!
+0573	Please pass me your application documents!
+0574	Please pass me the football first!
+0575	Please pass me the map of Europe now!
+0576	The first thing I need in the morning is a cold shower.
+0577	What do you prefer, to take a shower or to have a bath?
+0578	After work I can take a shower in the factory.
+0579	I always take a shower after football training.
+0580	My daughter rarely takes a shower, she prefers having a comfortable bath.
+0581	I am glad to have finally finished work for today. 
+0582	I am glad to finally have my lunch break.
+0583	As soon as your holidays start we can finally all go to the seaside.
+0584	The schoolchildren are happy to finally have summer holidays.
+0585	The postman finally delivered the parcel yesterday.
+0586	My nephew has to decide soon whether he would like to take vocational training or to attend university.
+0587	The master decides whether or not the deaf apprentice will get a videophone.
+0588	The managing director decides how much salary I will be getting.
+0589	Today the club decides how many tennis balls will be bought.
+0590	The school principal settles the date for the summer party.
+0591	The manager is telling me when I will be getting the salary.
+0592	My neighbour is telling me that he went camping in Holland.
+0593	The secretary is telling me that there is always a lot of traffic at 8am.
+0594	The hotel manager is telling me that all hotel rooms are already reserved.  
+0595	My hairdresser is telling me that his salary is very low.
+0596	My neighbour is explaining to me why my washing machine is broken.
+0597	Yesterday my neighbour lent me hiking boots.
+0598	My friend might lend me a football.
+0599	My grandfather might lend me an alarm clock with flashlight.
+0600	My boss can lend me the laptop until the day after tomorrow.
+0601	When does the interpreter send me the contract?
+0602	My colleague already sent me the project documents.
+0603	My friend sent me perfume last Easter.
+0604	Yesterday the agency sent me a letter containing the new identity card.
+0605	My grandparents might send me a nice parcel for Easter.
+0606	My parents always send me a big parcel for Christmas.
+0607	Your boss has to sign the fax and then send it back to me.
+0608	I got your fax last week.
+0609	Maybe you can fax your application documents?
+0610	I already sent the attendance list for the conference. 
+0611	When does your grandmother celebrate her birthday?
+0612	Does your birthday party start at 6pm tonight?
+0613	We will drink sparkling wine tomorrow because the judge will celebrate his birthday.
+0614	The football club will fly to England for a common holiday.
+0615	As soon as I will have finished the vocational training I will fly to America.
+0616	My colleague flies to America every month in order to work on a new project.
+0617	I will be flying to America next month in order to see a tennis tournament.
+0618	The day after tomorrow my boss will be flying to England in order to plan a new project.
+0619	I always go to church at Easter.
+0620	My niece rarely goes to a museum.
+0621	My grandchild goes to dancing class regularly.
+0622	My brother-in-law likes to go to a museum in his leisure time.
+0623	Next month I will go to a city festival together with my family.
+0624	I often went to the museum with my course participants.
+0625	Do you want me to explain you the way to the photocopy room?
+0626	Today I will explain you how to handle the new remote control.
+0627	I can explain why I took your laptop.
+0628	Every day I tell you not to run when it is raining outside.
+0629	I can explain the project to you if you have time at  lunchtime.
+0630	Do you want me to give you the address of the hotel?
+0631	I gave you my alarm clock with flashlight yesterday, please hand it back today.
+0632	When can I hand my application documents to your boss?
+0633	I gave you my football the day before yesterday, please hand it back today!
+0634	Do you still need the documents of the conference I gave you last week?
+0635	I will send you an SMS if my train is late.
+0636	I will send your grandchild a big parcel for Christmas.
+0637	I will send you an SMS to let you know when the appointment with the interpreter will take place.
+0638	I will send you a postcard when I fly to America.
+0639	I will read the rental agreement first and send it to you afterwards.
+0640	I wanted to send you a letter but unfortunately I forgot your address.
+0641	Why do you want me to show you my identity card?
+0642	Do you want me to show you my ticket?
+0643	May I show you my application documents?
+0644	May I show you my new motorboat?
+0645	My holiday was great, I can show you some pictures.
+0646	I met my boyfriend in a museum.
+0647	I met the new caretaker yesterday.
+0648	I met my wife in a sports club.
+0649	I went to the airport yesterday and met the new judge.
+0650	I always meet nice people whenever I travel by train.
+0651	I do not feel like copying all the documents.
+0652	Please copy the sale contract.
+0653	Unfortunally I forgot to copy the rental agreement.
+0654	Please copy the important project documents!
+0655	Today I ran a lot during football training.
+0656	During the summer holidays I swim and jog regularly.
+0657	I will arrange to meet my colleague the day after tomorrow in order to go jogging together.
+0658	When did you start back then to go jogging in the morning?
+0659	When I finish work I go home first and then I go jogging.
+0660	I have to go home after the tennis training.
+0661	When the birthday parties are nice, I often get home late.
+0662	Today the postman has to go home at 4pm already.
+0663	I have to go home now because I have to get up at 6am tomorrow.
+0664	My boss often gets home late because he always has a lot of work to do.
+0665	My grandchild needs a new alarm clock with flashlight.
+0666	My hearing friend does not need any subtitles.
+0667	You do not need to copy the documents for the vocational training.
+0668	Civil servants do not have to pay for pension insurance.
+0669	The bathroom is still clean, you do not have to clean it.
+0670	Do I not need a identity card when travelling through Europe?
+0671	I am afraid I cannot come to the summer party.
+0672	I am afraid I cannot explain you how the videophone works.
+0673	Unfortunally the neighbour cannot lend me the car tomorrow.
+0674	I cannot fix the engine today because I only have little time.
+0675	You should not smoke while you are working.
+0676	You are not allowed to play ball inside the house.
+0677	The identity card is important, you should not lose it!
+0678	I am glad that I do not have to go to court.
+0679	We do not have to go jogging today as it is raining heavily.
+0680	The interpreter commutes to the institute every Tuesday.
+0681	My brother-in-law commutes to the factory by underground.
+0682	My neighbour commutes to the factory by car daily.
+0683	I do not feel like commuting to work by bicycle daily.
+0684	The apprentice commutes to the factory by underground daily.
+0685	Today I am commuting to the firm by underground because by car broke down again.
+0686	We have to plan the next Christmas party.
+0687	I have already met a lot of famous politicians.
+0688	The mayor is planning a city festival again.
+0689	I will go to the travel agency during lunch break in order to plan the holiday.
+0690	I have to buy some cigarettes for my grandfather.
+0691	My hairdresser goes to Holland every month in order to buy cigarettes.
+0692	We have both been to England already.
+0693	My grandchildren do not want to go to England.
+0694	If you want to go to America you will need a new identity card.
+0695	All course participants will go to the seaside together during the summer holidays.
+0696	How long have you had the two big horses now?
+0697	I practice horse riding regularly because the horse show will be starting soon.
+0698	In Aachen there is a famous horse show every year.
+0699	I cannot fix your broken television.
+0700	Who can fix my broken videophone?
+0701	How long  will it take you to fix my broken laptop? 
+0702	I took my car to the garage last week because of an engine breakdown.
+0703	My washing machine is broken but I can fix it myself.
+0704	Unfortunately swimming in the sea is not allowed. 
+0705	I go swimming regularly after work.
+0706	My grandchildren like to go for a swim in the sea.
+0707	In my leisure time I take my family to Holland to go swimming in the sea.
+0708	The mayor rarely goes swimming because he has very little leisure time.
+0709	Do you understand why the boy stole the perfume?
+0710	Excuse me, did you see the person who has stolen my identity card?
+0711	The farmer is furious because ten of his horses were stolen last night.
+0712	I was furious yesterday because somebody stole my laptop in the main station.
+0713	Do you often go dancing in your leisure time?
+0714	Dancing starts at 10 o'clock in the pavilion the day after tomorrow.
+0715	I will go dancing with my friend at the weekend.
+0716	Would you like to go dancing at the summer party tomorrow?
+0717	Tonight training starts punctually at 6pm.
+0718	My grandchild is training regularly for the tennis tournament.
+0719	Smoking is prohibited here in the underground!
+0720	In Europe car theft is prohibited!
+0721	Smoking is prohibited here in court!
+0722	Eating and drinking is prohibited here in the underground!
+0723	In Europe smoking at work will soon be prohibited.
+0724	I have already made an appointment at the hairdresser's for you.
+0725	I still have to make an appointment with the garage.
+0726	I have to make an appointment with the interpreter first.
+0727	I have already arranged to go dancing with a friend.
+0728	I am afraid I already have a date at 6pm tomorrow night.
+0729	The apprentice rarely misses the bus.
+0730	The interpreter was late today because he missed the train.
+0731	I missed the 8 o'clock news on television again!
+0732	I must not miss the train because I have got an important meeting.
+0733	Today the apprentice was not on time because he missed the train.
+0734	I understand the news with subtitles.
+0735	Do you understand the news without subtitles?
+0736	I do not understand why your boss is angry.
+0737	I do not understand British Sign Language.
+0738	My deaf neighbour cannot understand films without subtitles.
+0739	I suggest that you fax the important contract first.
+0740	I suggest you better buy a television with a remote control.
+0741	My boss suggests me to participate in a conference in America.
+0742	My son suggests to go camping in Holland again.
+0743	My wife suggests to go hiking again for our next holiday.
+0744	My neighbour suggests to go swimming at the seaside in Holland during the next holidays.
+0745	I went hiking again last weekend.
+0746	The day after tomorrow the church choir is hiking together again.
+0747	Would you like to go hiking or play tennis tomorrow?
+0748	My master likes hiking and riding in his leisure time.
+0749	I do not want to go hiking together with the club next month.
+0750	Will your brother-in-law return from his winter holiday soon?
+0751	When do your colleagues return from England?
+0752	Please return my videophone, I need it myself!
+0753	How long is your lunch break?
+0754	The choir might need a break.
+0755	I pay the pension insurance monthly.
+0756	It was my birthday last month.
+0757	There is a famous church choir in Cologne.
+0758	Where is the remote control? I want to watch the news.
+0759	I rarely watch the news on television.
+0760	I will finish work tomorrow at 2pm already.
+0761	I will buy four tickets for the museum for you.
+0762	There are a number of famous football clubs in Europe.
+0763	There are a number of big campsites in Holland.
+0764	I intended to come on time but the underground was delayed.
+0765	I am furious because the train to Cologne is always delayed.
+0766	Morning break starts at 10am in the factory.
+0767	The postman finishes work already at 10am today.
+0768	My bus is often delayed during rush-hour traffic. 
+0769	I can take the parcel to the post office today.
+0770	The day after tomorrow I will have to go to court punctually at 8am.
+0771	Do you want me to buy a ticket for the museum for you?
+0772	I forgot my alarm clock with flashlight in the hotel during my last holiday.
+0773	How long have you been member of the tennis club?
+0774	My family would like to go to the campsite but I do not feel like it.
+0775	I intended to come to the station on time but there was a lot of traffic.
+0776	I am furious because there are many films without subtitles on television.
+0777	My master is furious because there was a traffic accident at lunch time.
+0778	The civil servant is going to the post office in order to pick up four parcels.
+0779	I have to type two letters for the bank manager.
+0780	I wish all films and news could be broadcasted with subtitles.

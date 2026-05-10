@@ -1,0 +1,6 @@
+# Fast evaluation config — overrides default.yaml for bulk API evaluation runs.
+# Removes the inter-call delay so throughput is limited only by API latency.
+# Use: TLAS_CONFIG=config/eval_fast.yaml python -m src.evaluation.evaluate ...
+api:
+  api_delay: 0.0
+  api_timeout: 120

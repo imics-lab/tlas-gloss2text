@@ -1,0 +1,30 @@
+# ============================================================================
+# Discourse context fine-tuning configuration.
+#
+# Fine-tunes the student's already-trained T5 model on discourse context pairs.
+# Loads from models/t5_model/ (the pretrained checkpoint) and saves to
+# models/t5_discourse/.
+#
+# Use:
+#   TLAS_CONFIG=config/discourse_finetune.yaml python -m src.training.train_t5 --discourse
+# ============================================================================
+
+t5:
+  model_name: models/t5_model      # start from student's fine-tuned model
+  checkpoint_dir: models/t5_discourse/final
+
+training:
+  # Fewer epochs — adapting an already fine-tuned model
+  num_epochs: 5
+
+  # Lower LR to avoid catastrophic forgetting
+  learning_rate: 5.0e-5
+
+  # Smaller batches to fit P4200 memory with longer context inputs
+  batch_size: 8
+  gradient_accumulation_steps: 4   # effective batch = 32
+
+  save_steps: 200
+  eval_steps: 200
+  save_total_limit: 2
+  load_best_model_at_end: true

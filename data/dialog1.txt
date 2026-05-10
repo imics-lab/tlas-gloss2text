@@ -1,0 +1,242 @@
+[10:00:00] Deaf User (Gloss): I GLAD SEE YOU
+[10:00:05] Hearing User (English): I'm so glad to see you too! It's been a while. How are you doing?
+
+[10:00:12] Deaf User (Gloss): I GOOD BUT WORK A-LOT-OF
+[10:00:18] Hearing User (English): Oh, you have a lot of work right now? That sounds stressful.
+
+[10:00:24] Deaf User (Gloss): MY BOSS FURIOUS EVERY-DAY
+[10:00:30] Hearing User (English): Your boss is furious every day? Why is he so angry?
+
+[10:00:36] Deaf User (Gloss): HE ALWAYS PROJECT NEW PLAN MUST
+[10:00:43] Hearing User (English): He always has to plan new projects? That definitely sounds like a heavy workload.
+
+[10:00:49] Deaf User (Gloss): I DO-NOT-FEEL-LIKE WORK BECAUSE SALARY LITTLE
+[10:00:55] Hearing User (English): I completely understand not feeling like working when the pay is so low. Have you talked to him about it?
+
+[10:01:02] Deaf User (Gloss): I WITH-what BOSS DISCUSS ABOUT-what SALARY
+[10:01:09] Hearing User (English): Good for you! You discussed the salary with him. What did he say?
+
+[10:01:15] Deaf User (Gloss): he-TELL-i FIRM MONEY NOT-HAVE
+[10:01:21] Hearing User (English): He told you the company doesn't have any money? That's a terrible excuse.
+
+[10:01:28] Deaf User (Gloss): I MAYBE APPLICATION NEW WRITE WANT
+[10:01:34] Hearing User (English): You want to write new job applications? I think that's a great idea. You deserve better pay.
+
+[10:01:41] Deaf User (Gloss): YOU you-HELP-i CAN YOU?
+[10:01:46] Hearing User (English): Of course I can help you! Do you want me to look over your resume?
+
+[10:01:52] Deaf User (Gloss): PLEASE YOU APPLICATION+DOCUMENTS READ
+[10:01:58] Hearing User (English): I would be happy to read your application documents. Just send them over.
+
+[10:02:04] Deaf User (Gloss): I i-SEND-you FAX LATER
+[10:02:10] Hearing User (English): You'll fax them to me later? Perfect, I'll keep an eye out for it.
+
+[10:02:16] Deaf User (Gloss): MY LAPTOP BROKEN I FIX CANNOT
+[10:02:22] Hearing User (English): Oh no, your laptop is broken and you can't fix it? That's awful timing.
+
+[10:02:28] Deaf User (Gloss): YOU FIX CAN HOW-MUCH COST?
+[10:02:35] Hearing User (English): I can definitely take a look at it. If I can fix it myself, it won't cost you anything.
+
+[10:02:41] Deaf User (Gloss): I GLAD YOU GOOD FRIEND
+[10:02:47] Hearing User (English): Aww, thanks! You're a good friend too. We can meet up so you can give me the laptop.
+
+[10:02:54] Deaf User (Gloss): WE-both MEET WHERE?
+[10:03:00] Hearing User (English): Where do you want to meet? We could go to a cafe or a restaurant.
+
+[10:03:07] Deaf User (Gloss): I PREFERRED RESTAURANT BECAUSE HUNGER STRONG-much
+[10:03:13] Hearing User (English): You're really hungry? A restaurant sounds perfect then. What kind of food are you in the mood for?
+
+[10:03:20] Deaf User (Gloss): I PIZZA OR MEAT EAT LIKE
+[10:03:26] Hearing User (English): You like pizza or meat? There's a great Italian place downtown that has both.
+
+[10:03:32] Deaf User (Gloss): CITY+CENTRE X-middle EXPENSIVE
+[10:03:38] Hearing User (English): You think the city center is too expensive? That's fair. We can go somewhere cheaper.
+
+[10:03:45] Deaf User (Gloss): EXCELLENT+MARKET X-left RESTAURANT CHEAP THERE-IS
+[10:03:51] Hearing User (English): There's a cheap restaurant to the left of the supermarket? That sounds like a great plan.
+
+[10:03:57] Deaf User (Gloss): WE-all DRINK BEER AND WINE
+[10:04:03] Hearing User (English): Yes, we can definitely drink some beer and wine! It will be a fun night.
+
+[10:04:10] Deaf User (Gloss): THIS-time FRIDAY EVENING 6 CLOCK GOOD?
+[10:04:16] Hearing User (English): This Friday at 6 PM? Yes, that works perfectly for me.
+
+[10:04:22] Deaf User (Gloss): I CAR+DRIVE COME-there
+[10:04:28] Hearing User (English): You're going to drive your car there? Sounds good. Is your car running okay?
+
+[10:04:35] Deaf User (Gloss): CAR NEW ENGINE GOOD
+[10:04:41] Hearing User (English): Oh, you have a new car with a good engine! That's awesome. What happened to the old one?
+
+[10:04:48] Deaf User (Gloss): OLD CAR BROKEN GARAGE EXPENSIVE I SELL
+[10:04:55] Hearing User (English): Ah, the old car broke down and the garage was too expensive, so you sold it. Smart move.
+
+[10:05:02] Deaf User (Gloss): NOW I MONEY LITTLE SAVE MUST
+[10:05:08] Hearing User (English): Now you have little money and must save? Buying a new car will definitely do that to your bank account.
+
+[10:05:15] Deaf User (Gloss): MY WIFE FURIOUS BECAUSE CAR EXPENSIVE
+[10:05:22] Hearing User (English): Your wife is furious because the car was expensive? Oh boy. Is she still mad?
+
+[10:05:28] Deaf User (Gloss): SHE NOW CALM WE-both HOLIDAY PLAN
+[10:05:35] Hearing User (English): Glad to hear she is calm now. Planning a holiday sounds like a great way to make up for it!
+
+[10:05:42] Deaf User (Gloss): WE-both AMERICA FLY-left WANT
+[10:05:48] Hearing User (English): You both want to fly to America? That's a huge trip!
+
+[10:05:55] Deaf User (Gloss): BUT FLIGHT EXPENSIVE I DO-NOT-FEEL-LIKE
+[10:06:01] Hearing User (English): The flights are too expensive so you don't feel like it? I completely get that. Flights to the US are crazy right now.
+
+[10:06:08] Deaf User (Gloss): I PROPOSE HOLLAND DRIVE TENT CAMPING
+[10:06:14] Hearing User (English): You proposed driving to Holland to go camping in a tent? That sounds much cheaper and very fun!
+
+[10:06:21] Deaf User (Gloss): SEA SWIM COMFORTABLE RELAX
+[10:06:27] Hearing User (English): Swimming in the sea and relaxing comfortably. That sounds like a perfect vacation.
+
+[10:06:34] Deaf User (Gloss): MY DAUGHTER SMALL-person SEA LIKE
+[10:06:40] Hearing User (English): Your little daughter likes the sea? That's adorable. She will love the beach.
+
+[10:06:47] Deaf User (Gloss): MY SON NOT-WANT CAMPING HE BORING
+[10:06:53] Hearing User (English): Your son doesn't want to go camping because he thinks it's boring? Teenagers, right?
+
+[10:06:59] Deaf User (Gloss): HE ALWAYS TELEVISION FILM SEE WANT
+[10:07:05] Hearing User (English): He just wants to watch TV and movies all the time? Typical kid. You have to force them outside.
+
+[10:07:12] Deaf User (Gloss): I he-TELL-i OUTSIDE HEALTHY PLAY BALL-round
+[10:07:18] Hearing User (English): You told him playing outside with a ball is healthy. Exactly! Maybe he'll make some friends at the campsite.
+
+[10:07:25] Deaf User (Gloss): MY DOG ALSO COME-to
+[10:07:31] Hearing User (English): Your dog is coming too? That's great! Dogs love camping.
+
+[10:07:37] Deaf User (Gloss): YESTERDAY MY DOG SICK STOMACH PAIN
+[10:07:43] Hearing User (English): Oh no, your dog was sick yesterday with stomach pain? Is he doing better today?
+
+[10:07:50] Deaf User (Gloss): I ANIMALS+DOCTOR GO-to PILLS he-GET-i
+[10:07:56] Hearing User (English): You went to the vet and got pills? That's good. Hopefully, they help him recover fast.
+
+[10:08:03] Deaf User (Gloss): TODAY HE EAT DRINK GOOD
+[10:08:09] Hearing User (English): He is eating and drinking well today? Excellent news.
+
+[10:08:15] Deaf User (Gloss): HOW YOUR MOTHER SICKNESS THERE-you?
+[10:08:21] Hearing User (English): You're asking how my mother is doing and if she's still sick? Thank you for asking. She is actually doing a bit better.
+
+[10:08:28] Deaf User (Gloss): SHE HOSPITAL-in X-middle STAY-right HOW-LONG?
+[10:08:34] Hearing User (English): How long is she staying in the hospital? Probably just for three more days.
+
+[10:08:41] Deaf User (Gloss): I WISH SHE SOON HEALTHY
+[10:08:47] Hearing User (English): Thank you, you wishing her a speedy recovery means a lot to me. I will let her know.
+
+[10:08:54] Deaf User (Gloss): I TOMORROW FLOWERS NICE BUY i-FOR-he
+[10:09:00] Hearing User (English): You are going to buy nice flowers for her tomorrow? That is incredibly sweet of you. She loves flowers.
+
+[10:09:07] Deaf User (Gloss): SHE FLOWERS RED OR FLOWERS NEW LIKE WHAT?
+[10:09:14] Hearing User (English): Does she like red flowers or something else? Red flowers are actually her absolute favorite!
+
+[10:09:21] Deaf User (Gloss): GOOD I TOMORROW MARKET X-right FLOWERS LOOK FOR
+[10:09:27] Hearing User (English): Great, you can look for them at the market tomorrow. The flower stalls there always have fresh ones.
+
+[10:09:34] Deaf User (Gloss): WEATHER TODAY BAD RAIN A-LOT-OF
+[10:09:40] Hearing User (English): Yeah, the weather today is really bad. So much rain. I didn't even want to leave my house.
+
+[10:09:47] Deaf User (Gloss): I UMBRELLA FORGET I COLD-cool
+[10:09:53] Hearing User (English): You forgot your umbrella and got cold? Oh man, you must be freezing.
+
+[10:10:00] Deaf User (Gloss): MY JACKET NEW DIRTY I SAD
+[10:10:06] Hearing User (English): Your new jacket got dirty and you're sad about it? That's the worst feeling when new clothes get ruined in the rain.
+
+[10:10:13] Deaf User (Gloss): I WASH-clothes MUST BUT WASH+POWDER MISSING
+[10:10:19] Hearing User (English): You have to wash it but you're out of washing powder? You're having terrible luck today.
+
+[10:10:26] Deaf User (Gloss): I LATER SHOP GO-to BUY HAVE-TO
+[10:10:32] Hearing User (English): You have to go to the shop to buy some later? Try to stay dry this time!
+
+[10:10:39] Deaf User (Gloss): I DO-NOT-FEEL-LIKE OUTSIDE BECAUSE FOG STRONG-much
+[10:10:45] Hearing User (English): You don't feel like going outside because the fog is too thick. I don't blame you, visibility is terrible.
+
+[10:10:52] Deaf User (Gloss): TRAFFIC DANGEROUS BUS DELAY OFTEN-frequently
+[10:10:58] Hearing User (English): Traffic is dangerous and the bus is frequently delayed. Yeah, public transport is a nightmare in this weather.
+
+[10:11:05] Deaf User (Gloss): YESTERDAY MY BROTHER TRAIN MISS HE LATE
+[10:11:11] Hearing User (English): Your brother missed his train yesterday and was late? Was he late for work?
+
+[10:11:18] Deaf User (Gloss): YES HE APPOINTMENT IMPORTANT COURT-justice MISS
+[10:11:24] Hearing User (English): Oh wow, he missed an important appointment at court? That sounds really bad. Did he get in trouble?
+
+[10:11:31] Deaf User (Gloss): JUDGE FURIOUS MY BROTHER APOLOGIZE MUST
+[10:11:38] Hearing User (English): The judge was furious and your brother had to apologize. I bet that was extremely stressful for him.
+
+[10:11:45] Deaf User (Gloss): NOW HE MOTORCYCLE DRIVE PREFERRED
+[10:11:51] Hearing User (English): Now he prefers driving his motorcycle instead of taking the train. That makes sense, you control your own schedule.
+
+[10:11:58] Deaf User (Gloss): BUT MOTORCYCLE RAIN X-middle COLD-cool NOT HEALTHY
+[10:12:05] Hearing User (English): But riding a motorcycle in the rain is cold and unhealthy. Very true, you can catch a nasty cold doing that.
+
+[10:12:12] Deaf User (Gloss): YOU MOTORCYCLE DRIVE CAN YOU?
+[10:12:18] Hearing User (English): Can I drive a motorcycle? No, I never learned how. It looks fun but a bit scary to me.
+
+[10:12:25] Deaf User (Gloss): I BACK-THEN LEARN NOW I FORGET
+[10:12:31] Hearing User (English): You learned back then but you've forgotten now? It happens! If you don't practice, you lose it.
+
+[10:12:38] Deaf User (Gloss): I BICYCLE DRIVE GLADLY HEALTHY
+[10:12:44] Hearing User (English): You gladly ride your bicycle because it's healthy. I agree, cycling is a fantastic way to exercise.
+
+[10:12:51] Deaf User (Gloss): WEEK+END I OFTEN-every MOUNTAIN HIKE
+[10:12:57] Hearing User (English): Every weekend you go hiking in the mountains? You are very active!
+
+[10:13:04] Deaf User (Gloss): MY WIFE SPORTS NOT-LIKE SHE READ BOOK
+[10:13:10] Hearing User (English): Your wife doesn't like sports, she prefers reading books? Opposites attract! It's nice she has her own hobbies.
+
+[10:13:17] Deaf User (Gloss): SHE BOOK EXPENSIVE BUY A-LOT-OF
+[10:13:23] Hearing User (English): She buys a lot of expensive books? Well, there are worse things to spend money on than books!
+
+[10:13:30] Deaf User (Gloss): WE-all HOUSE X-middle ROOM SMALL-object WARDROBE FULL
+[10:13:36] Hearing User (English): The room in your house is small and the wardrobe is full of them? Sounds like you need a bigger bookshelf!
+
+[10:13:43] Deaf User (Gloss): I TIDY-UP MUST OFTEN-every THURSDAY
+[10:13:49] Hearing User (English): You have to tidy up every Thursday? Keeping the house clean is a constant job.
+
+[10:13:56] Deaf User (Gloss): TOMORROW THURSDAY I CLEAN-floor BATH-body+ROOM
+[10:14:02] Hearing User (English): Tomorrow is Thursday, so you'll be cleaning the floor in the bathroom. Sounds like a fun evening... not!
+
+[10:14:09] Deaf User (Gloss): MY CHILDREN ROOM DIRTY TYPICAL
+[10:14:15] Hearing User (English): Your children's room is typically dirty. Yes, kids are basically little mess-making machines.
+
+[10:14:22] Deaf User (Gloss): I he-TELL-i TIDY-UP THEY NOT-WANT SLEEP
+[10:14:28] Hearing User (English): You tell them to tidy up and they just want to sleep instead? That's a classic kid excuse.
+
+[10:14:35] Deaf User (Gloss): I ANGRY BUT I MYSELF-i CLEAN
+[10:14:41] Hearing User (English): You get angry but end up cleaning it yourself anyway. I think every parent knows that exact feeling.
+
+[10:14:48] Deaf User (Gloss): LUNCHTIME YOU EAT WHAT TODAY?
+[10:14:54] Hearing User (English): What did I eat for lunch today? I just had a quick sandwich and some coffee. What about you?
+
+[10:15:01] Deaf User (Gloss): I COOK VEGETABLES+SOUP DELICIOUS
+[10:15:07] Hearing User (English): You cooked a delicious vegetable soup? That sounds incredibly warming, especially with the cold rain outside.
+
+[10:15:14] Deaf User (Gloss): I GRANDMA RECIPE USE SHE BACK-THEN BAKE COOK GOOD
+[10:15:20] Hearing User (English): You used your grandma's recipe? Grandmas always know how to bake and cook the best meals.
+
+[10:15:27] Deaf User (Gloss): GRANDMA NOW OLD HOSPITAL-in X-right LIVE
+[10:15:33] Hearing User (English): Oh, your grandma is old now and lives in a hospital or care home? I'm sorry to hear that. Do you visit her often?
+
+[10:15:40] Deaf User (Gloss): I SUNDAY EVERY-DAY i-VISIT-you CAKE i-TAKE-he
+[10:15:46] Hearing User (English): You visit her every Sunday and take her cake? That is wonderful. I'm sure she looks forward to that all week.
+
+[10:15:53] Deaf User (Gloss): SHE CHOCOLATE CAKE LIKE PREFERRED
+[10:16:00] Hearing User (English): She prefers chocolate cake? She has great taste. Chocolate cake is the best.
+
+[10:16:07] Deaf User (Gloss): WE-both COFFEE DRINK DISCUSS ABOUT-what FAMILY
+[10:16:13] Hearing User (English): You both drink coffee and discuss the family. Those sound like really precious moments.
+
+[10:16:20] Deaf User (Gloss): NOW I TIME CLOCK SEE I WORK START MUST
+[10:16:26] Hearing User (English): You just looked at the clock and realized you have to start working? Time flies when we chat!
+
+[10:16:33] Deaf User (Gloss): I AFTER-WORK 5 CLOCK LATER I YOU PHONE
+[10:16:39] Hearing User (English): You finish work at 5 o'clock and will phone me later? Perfect.
+
+[10:16:46] Deaf User (Gloss): PLEASE NOT FORGET FRIDAY RESTAURANT 6 CLOCK
+[10:16:52] Hearing User (English): I won't forget! Friday at 6 o'clock at the restaurant near the market. I put it in my calendar.
+
+[10:16:59] Deaf User (Gloss): I BRING LAPTOP YOU FIX PLEASE
+[10:17:05] Hearing User (English): Yes, please bring the laptop. I will do my absolute best to fix it for you.
+
+[10:17:12] Deaf User (Gloss): THANK-YOU YOU GOOD FRIEND BYE
+[10:17:18] Hearing User (English): You're very welcome! Have a great rest of your work day. Bye!

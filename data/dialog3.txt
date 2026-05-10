@@ -1,0 +1,72 @@
+[09:15:00] Hearing User (English): Good morning! We need to finalize the plans for the business trip next month.
+[09:15:08] Hearing User (English): Are we still going to the conference in Hamburg?
+
+[09:15:15] Deaf User (Gloss): CONFERENCE HAMBURG X-right I COME-there MUST
+[09:15:21] Deaf User (Gloss): BUT I HOTEL NOT-HAVE
+
+[09:15:28] Hearing User (English): Oh, you haven't booked a hotel room yet?
+[09:15:33] Hearing User (English): Rooms are filling up fast because of the event.
+
+[09:15:42] Deaf User (Gloss): PLEASE YOU HOTEL BOOK you-FOR-i CAN YOU?
+
+[09:15:49] Hearing User (English): Sure, I can book the hotel for you.
+[09:15:55] Hearing User (English): Do you want your own room, or should we look for a suite to share to save money?
+
+[09:16:04] Deaf User (Gloss): I MYSELF-i ROOM PREFERRED
+[09:16:11] Deaf User (Gloss): HOTEL CHEAP LOOK FOR PLEASE
+
+[09:16:18] Hearing User (English): Got it. I will look for a cheap single room for you.
+[09:16:25] Hearing User (English): What about the interpreter? Did you manage to find one in Hamburg?
+
+[09:16:35] Deaf User (Gloss): INTERPRETER I ALREADY ORDER
+[09:16:42] Deaf User (Gloss): INTERPRETER X-right he-COME-middle THURSDAY
+
+[09:16:50] Hearing User (English): Perfect. The interpreter is coming on Thursday.
+[09:16:56] Hearing User (English): Do we need to pay them in advance, or will the company handle it?
+
+[09:17:07] Deaf User (Gloss): BOSS X-right PAY MUST
+[09:17:15] Deaf User (Gloss): I CONTRACT i-SEND-you FAX TOMORROW
+
+[09:17:23] Hearing User (English): Okay, so you will fax the contract to me tomorrow. What do I do with it?
+
+[09:17:34] Deaf User (Gloss): BOSS SIGN THEN BACK he-SEND-i HAVE-TO
+[09:17:42] Deaf User (Gloss): DOCUMENTS IMPORTANT NOT LOSE-things
+
+[09:17:50] Hearing User (English): Understood. I will make sure the boss signs it and sends it straight back to you. I won't lose it!
+[09:17:58] Hearing User (English): Now, how are we actually getting to Hamburg? Do you want to drive?
+
+[09:18:08] Deaf User (Gloss): I CAR DRIVE NOT-WANT
+[09:18:15] Deaf User (Gloss): TRAFFIC PROBLEM-i A-LOT-OF
+
+[09:18:23] Hearing User (English): You're right, the traffic on that highway is always a huge problem.
+[09:18:29] Hearing User (English): Let's take the train instead.
+
+[09:18:38] Deaf User (Gloss): WE-both TRAIN DRIVE PREFERRED
+[09:18:45] Deaf User (Gloss): TRAIN 8 CLOCK EARLY START
+
+[09:18:53] Hearing User (English): 8 AM is an early start, but it will give us plenty of time to get to the conference.
+[09:19:00] Hearing User (English): Do I need to buy my train ticket today?
+
+[09:19:10] Deaf User (Gloss): I ENTRANCE+CARD-post BUY ALREADY
+[09:19:17] Deaf User (Gloss): 2 ENTRANCE+CARD-post THERE-i
+
+[09:19:25] Hearing User (English): Oh, you already bought the tickets for both of us! Thank you so much.
+[09:19:32] Hearing User (English): How much do I owe you for my ticket?
+
+[09:19:42] Deaf User (Gloss): FIRM PAY YOU PAY NOT-NEED
+
+[09:19:50] Hearing User (English): The company paid for them? Even better!
+[09:19:57] Hearing User (English): Where should we meet on Thursday morning?
+
+[09:20:07] Deaf User (Gloss): WE-both STATION X-middle ON-TIME MEET
+[09:20:14] Deaf User (Gloss): STATION BIG-wide NOT MISS TRAIN
+
+[09:20:23] Hearing User (English): I'll be at the main station right on time. I know it's a big station, so I'll leave my house early. I won't miss the train!
+
+[09:20:34] Deaf User (Gloss): I i-SHOW-you DOCUMENTS TOMORROW OFFICE X-middle
+[09:20:41] Deaf User (Gloss): WE-both DISCUSS ABOUT-what PROGRAM
+
+[09:20:49] Hearing User (English): Sounds like a plan. Show me the documents tomorrow at the office and we can go over the conference program together.
+[09:20:56] Hearing User (English): Thanks for organizing all of this!
+
+[09:21:05] Deaf User (Gloss): GOOD SEE YOU TOMORROW

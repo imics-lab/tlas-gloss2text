@@ -1,0 +1,145 @@
+# ============================================================================
+# TLAS — Default Configuration
+# ============================================================================
+# All hyperparameters in one place.  To run an experiment with different
+# settings, copy this file (e.g. config/experiment1.yaml) and pass it via:
+#   TLAS_CONFIG=config/experiment1.yaml python -m src.training.train_t5
+# API keys are loaded from environment variables (.env file), not from here.
+# ============================================================================
+
+# ── Paths ──────────────────────────────────────────────────────────────────
+paths:
+  data: data
+  checkpoints: checkpoints
+  results: results
+
+  # SIGNUM corpus
+  signum_glosses: data/signum_sents_anno_eng.txt
+  signum_translations: data/signum_sents_trans_eng.txt
+  signum_vocab: data/signum_signs_anno_eng.txt
+
+  # Timestamped stream files
+  monologue1_stream: data/monologue1-gloss_stream.txt
+  monologue2_stream: data/monologue2-gloss_stream.txt
+  dialog3_stream: data/dialog3-stream.txt
+
+  # Sentence-level reference files
+  monologue1: data/monologue1.txt
+  monologue2: data/monologue2.txt
+  dialog3: data/dialog3.txt
+
+# ── API ────────────────────────────────────────────────────────────────────
+# API keys come from environment variables (GROQ_API_KEY, GEMINI_API_KEY).
+# Only non-secret defaults are listed here.
+api:
+  groq_model: llama-3.1-8b-instant
+  gemini_model: gemini-2.5-flash
+  ollama_url: http://localhost:11434/api/generate
+  ollama_model: gpt-oss-32k:latest
+  api_timeout: 60
+  api_delay: 0.3
+  max_retries: 3
+
+# ── T5 Model ──────────────────────────────────────────────────────────────
+t5:
+  model_name: t5-base
+  checkpoint_dir: models/t5_model
+
+  # Task prefixes (T5 text-to-text format)
+  gloss_to_text_prefix: "translate ASL to English: "
+  text_to_gloss_prefix: "translate English to ASL: "
+
+  # Special tokens
+  wait_token: "<WAIT>"
+  sentence_sep: "|||"
+
+  # Sequence lengths
+  max_source_length: 256
+  max_target_length: 128
+
+  # Decoding
+  num_beams: 4
+  no_repeat_ngram_size: 2
+  early_stopping: true
+
+# ── Training ──────────────────────────────────────────────────────────────
+training:
+  # Data splits
+  num_train_samples: 3000
+  num_val_samples: 300
+  num_test_samples: 100
+  random_seed: 42
+
+  # Optimisation
+  num_epochs: 10
+  batch_size: 16               # per-device
+  gradient_accumulation_steps: 2
+  learning_rate: 3.0e-4
+  warmup_ratio: 0.1
+  weight_decay: 0.05
+  label_smoothing_factor: 0.1
+  fp16: true
+
+  # TransLLaMa-style data augmentation
+  max_streaming_examples_per_sentence: 3
+
+  # LRE head training
+  lre_epochs: 5
+  lre_learning_rate: 1.0e-3
+  lre_batch_size: 64
+
+  # Checkpointing
+  save_steps: 500
+  eval_steps: 500
+  save_total_limit: 2
+  load_best_model_at_end: true
+
+# ── TLAS Policy ───────────────────────────────────────────────────────────
+tlas:
+  # Temporal Pause Detector (TPD)
+  tpd_alpha: 0.3               # EMA smoothing factor
+  tpd_pause_multiplier: 2.5    # ratio above EMA for full pause signal
+  tpd_min_buffer: 1
+  tpd_ema_prior_ms: 450.0      # EMA prior (avoids cold-start fluctuations)
+
+  # Linguistic Readiness Estimator (LRE)
+  lre_hidden_dim: 256
+  lre_dropout: 0.1
+
+  # Adaptive Fusion Gate (AFG)
+  afg_weight_temporal: 0.4
+  afg_weight_linguistic: 0.6
+  afg_threshold: 0.40
+  afg_strong_pause_threshold: 0.8
+  afg_min_readiness_for_pause: 0.3
+  afg_max_lag: 6
+
+  # Discourse context window
+  context_window_size: 3
+
+# ── Baselines ─────────────────────────────────────────────────────────────
+baselines:
+  wait_k: 3
+
+  # LSG thresholds
+  lsg_kl_threshold: 2.0
+  lsg_confidence_threshold: 0.70
+  lsg_baseline_k: 2
+  lsg_max_lag: 6
+
+  mma_enabled: true
+
+# ── Evaluation ────────────────────────────────────────────────────────────
+evaluation:
+  compute_bleu: true
+  compute_rouge: true
+  compute_bertscore: true
+  compute_latency: true
+
+  bertscore_model: models/roberta-large
+
+  # Synthetic timing for offline evaluation (ms)
+  simulated_intergloss_ms: 450.0
+  simulated_intergloss_std_ms: 100.0
+
+  results_dir: results

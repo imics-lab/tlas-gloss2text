@@ -1,0 +1,152 @@
+[14:00:00] Hearing User (English): Hi! Are you there?
+[14:00:06] Hearing User (English): Just wanted to check in and see how the apartment hunt is going.
+
+[14:00:15] Deaf User (Gloss): I NEW FLAT LOOK FOR
+[14:00:22] Deaf User (Gloss): CITY+CENTRE X-middle EXPENSIVE STRONG-much
+
+[14:00:30] Hearing User (English): Yeah, the city center is always way too expensive.
+[14:00:36] Hearing User (English): Have you looked in the suburbs or outside the city?
+
+[14:00:46] Deaf User (Gloss): MY WIFE PROPOSE COLOGNE LIVE
+[14:00:54] Deaf User (Gloss): BUT I COMMUTE DO-NOT-FEEL-LIKE
+[14:01:02] Deaf User (Gloss): EVERY-DAY UNDERGROUND DELAY I LATE ALWAYS
+
+[14:01:10] Hearing User (English): Commuting from Cologne would be an absolute nightmare.
+[14:01:17] Hearing User (English): Especially with the underground always being delayed. What about finding a place with a garden? I know she really wanted one.
+
+[14:01:29] Deaf User (Gloss): WE-both HOUSE SMALL-object WITH-what BALCONY WISH
+[14:01:37] Deaf User (Gloss): GARDEN WORK A-LOT-OF I DO-NOT-FEEL-LIKE
+
+[14:01:45] Hearing User (English): Haha, fair enough! Gardening is a ton of work, especially in the autumn.
+
+[14:01:56] Deaf User (Gloss): YESTERDAY I FLAT NICE SEE
+[14:02:04] Deaf User (Gloss): FLAT CHEAP AND BIG-wide
+
+[14:02:12] Hearing User (English): Oh wow! Cheap and big? What's the catch?
+[14:02:18] Hearing User (English): Is it in a bad neighborhood?
+
+[14:02:29] Deaf User (Gloss): BATH-body+ROOM X-middle DIRTY TOILET BROKEN
+[14:02:37] Deaf User (Gloss): WINDOW DIRTY WATER COLD-cool
+
+[14:02:45] Hearing User (English): Oh no, a broken toilet and only cold water? Yikes. That sounds terrible.
+
+[14:02:56] Deaf User (Gloss): I MAN X-right he-ASK-i FIX CAN YOU?
+[14:03:04] Deaf User (Gloss): MAN X-right FIX NOT-WANT
+
+[14:03:12] Hearing User (English): Good call walking away from that one. Don't rent a place if the landlord won't even fix the bathroom before you move in.
+[14:03:22] Hearing User (English): Speaking of housing, how is your brother's new place? Is he settled in?
+
+[14:03:34] Deaf User (Gloss): MY BROTHER HOUSE NEW COMFORTABLE
+[14:03:41] Deaf User (Gloss): BUT BALCONY X-middle SPIDER MANY THERE-you
+
+[14:03:49] Hearing User (English): He has a lot of spiders on his balcony? That's hilarious.
+[14:03:55] Hearing User (English): Doesn't he completely hate bugs?
+
+[14:04:06] Deaf User (Gloss): MY BROTHER AFFRAID SPIDER STRONG-much
+[14:04:14] Deaf User (Gloss): TYPICAL I he-VISIT-i SPIDER CLEAN MUST
+
+[14:04:22] Hearing User (English): That's what older siblings are for! Going over just to clean up the spiders.
+
+[14:04:32] Deaf User (Gloss): I LAUGH HE AFFRAID TYPICAL
+[14:04:40] Deaf User (Gloss): NOW HE WINDOW CLOSE ALWAYS
+
+[14:04:48] Hearing User (English): That's too funny. He's going to suffocate in there just to avoid the spiders.
+[14:04:55] Hearing User (English): By the way, how is he doing with his sign language classes?
+
+[14:05:06] Deaf User (Gloss): MY BROTHER HEARING X-right SIGN+LANGUAGE LEARN
+[14:05:14] Deaf User (Gloss): HE COURSE i-VISIT-you EVERY-DAY TUESDAY
+
+[14:05:22] Hearing User (English): That's great! Is he getting better at it?
+
+[14:05:32] Deaf User (Gloss): MY BROTHER UNDERSTAND GOOD BUT SIGN BAD
+[14:05:39] Deaf User (Gloss): MY BROTHER PRACTICE MUST A-LOT-OF
+
+[14:05:47] Hearing User (English): I should probably take a class too. It would make our video calls a lot easier if I knew some signs!
+[14:05:54] Hearing User (English): Is the teacher he goes to good?
+
+[14:06:04] Deaf User (Gloss): TEACHER DEAF EXCELLENT
+[14:06:11] Deaf User (Gloss): TEACHER X-right he-EXPLAIN-i HOW SIGN GOOD
+
+[14:06:19] Hearing User (English): That's awesome. I'll definitely look into registering for the next semester.
+[14:06:26] Hearing User (English): Hey, changing the subject completely—did you watch the football tournament yesterday?
+
+[14:06:37] Deaf User (Gloss): I TELEVISION X-right FOOTBALL SEE YESTERDAY
+[14:06:45] Deaf User (Gloss): MY TEAM LOSE I SAD
+
+[14:06:53] Hearing User (English): I know, they played terribly. I couldn't believe it.
+
+[14:07:04] Deaf User (Gloss): JUDGE X-right DECIDE BAD
+[14:07:11] Deaf User (Gloss): JUDGE X-right FURIOUS ME
+
+[14:07:19] Hearing User (English): Yeah, the referee was awful. That penalty call was completely unfair.
+[14:07:25] Hearing User (English): Anyway, are you still going to the birthday party this weekend?
+
+[14:07:36] Deaf User (Gloss): THIS-time SATURDAY BIRTHDAY+PARTY COME-there I MUST
+[14:07:44] Deaf User (Gloss): BUT I PRESENT FORGET BUY
+
+[14:07:52] Hearing User (English): You forgot to buy a present! That is so typical of you.
+[14:07:59] Hearing User (English): Have you thought of what to get him?
+
+[14:08:10] Deaf User (Gloss): YOU PRESENT BUY ALREADY YOU?
+
+[14:08:17] Hearing User (English): Yes, I bought him a new book on photography.
+
+[14:08:28] Deaf User (Gloss): BOOK BORING HE READ NOT-LIKE
+[14:08:35] Deaf User (Gloss): HE PREFERRED DRINK WINE RED
+
+[14:08:43] Hearing User (English): You think he'll find it boring? He literally told me last week he wanted to learn to take pictures!
+[14:08:50] Hearing User (English): But you're right, he does love red wine more than anything else.
+
+[14:09:02] Deaf User (Gloss): I TOMORROW EXCELLENT+MARKET X-right WINE EXPENSIVE BUY
+[14:09:10] Deaf User (Gloss): AND CHEESE FRESH I i-TAKE-he
+
+[14:09:18] Hearing User (English): Wine and fresh cheese is a perfect gift. You can't go wrong with that.
+[14:09:25] Hearing User (English): Are you going to bring anything else?
+
+[14:09:35] Deaf User (Gloss): MAYBE I CHOCOLATE BUY BECAUSE HE LIKE
+[14:09:43] Deaf User (Gloss): PARTY START HOW-MUCH CLOCK?
+
+[14:09:51] Hearing User (English): The party starts at 8 PM.
+[14:09:57] Hearing User (English): Will your wife come too?
+
+[14:10:08] Deaf User (Gloss): MY WIFE COME-to UNFORTUNATELY CANNOT
+[14:10:16] Deaf User (Gloss): SHE COLD-sickness HEAD+PAIN THERE-i
+
+[14:10:24] Hearing User (English): Oh no, she is sick?
+[14:10:29] Hearing User (English): That's a shame. Did the doctor give her anything for it?
+
+[14:10:40] Deaf User (Gloss): SHE HOSPITAL-in DOCTOR GO-to YESTERDAY
+[14:10:47] Deaf User (Gloss): DOCTOR X-right PILLS PRESCRIBE SHE SLEEP MUST
+
+[14:10:55] Hearing User (English): I hope she feels better soon. Tell her I say hi.
+[14:11:02] Hearing User (English): You'll have to have a drink for her at the party.
+
+[14:11:13] Deaf User (Gloss): I he-TELL-i THANK-YOU
+[14:11:21] Deaf User (Gloss): I MYSELF-i CAT YOUNG+SMALL-object LOOK-after MUST
+
+[14:11:30] Hearing User (English): Oh, you have to look after her new kitten while she rests? Aw! That's sweet of you.
+
+[14:11:41] Deaf User (Gloss): CAT SMALL-object HUNGER ALWAYS
+[14:11:48] Deaf User (Gloss): I FISH+FOOD BUY HAVE-TO
+
+[14:11:56] Hearing User (English): Make sure you get the right kind of food! Kittens can be really picky eaters.
+
+[14:12:07] Deaf User (Gloss): CAT MILK DRINK GLADLY
+[14:12:15] Deaf User (Gloss): MY DOG JEALOUS FURIOUS
+
+[14:12:23] Hearing User (English): Your dog is jealous of the new cat? That's adorable.
+[14:12:29] Hearing User (English): Do they fight with each other?
+
+[14:12:40] Deaf User (Gloss): NO THEY PLAY BALL-round TOGETHER
+[14:12:48] Deaf User (Gloss): BUT DOG EAT CAT FOOD OFTEN-frequently
+
+[14:12:56] Hearing User (English): Haha, typical dog. Eating whatever is put in front of them.
+[14:13:03] Hearing User (English): Anyway, I need to get back to work. I have a meeting starting in 5 minutes.
+
+[14:13:15] Deaf User (Gloss): I ALSO WORK CONTINUE MUST
+[14:13:22] Deaf User (Gloss): WE-both MEET SATURDAY PARTY X-middle
+
+[14:13:30] Hearing User (English): Sounds like a plan. See you at the party!
+[14:13:35] Hearing User (English): Drive safe, especially if it rains again!
+
+[14:13:45] Deaf User (Gloss): THANK-YOU BYE

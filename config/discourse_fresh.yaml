@@ -1,0 +1,28 @@
+# ============================================================================
+# Discourse context fine-tuning from a fresh pretrained T5-base checkpoint.
+#
+# Downloads t5-base from HuggingFace (not the student's fine-tuned model)
+# and fine-tunes on discourse context pairs + ASLG-PC12 + SIGNUM.
+# Saves to models/t5_base_discourse/.
+#
+# Use:
+#   TLAS_CONFIG=config/discourse_fresh.yaml python -m src.training.train_t5 --discourse
+# ============================================================================
+
+t5:
+  model_name: t5-base              # fresh pretrained T5, downloaded from HuggingFace
+  checkpoint_dir: models/t5_base_discourse/final
+
+api:
+  api_delay: 0.0
+  api_timeout: 120
+
+training:
+  num_epochs: 5
+  learning_rate: 5.0e-5
+  batch_size: 8
+  gradient_accumulation_steps: 4   # effective batch = 32
+  save_steps: 200
+  eval_steps: 200
+  save_total_limit: 2
+  load_best_model_at_end: true
